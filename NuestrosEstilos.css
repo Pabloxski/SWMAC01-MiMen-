@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  width: 910px;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI';
+}
+
+img {
+  width: 300px;
+  object-position: right;
+}
+
+header {
+  border-bottom: solid 1px;
+  padding: 20px;
+}
+
+nav {
+  display: inline-block;
+  width: 300px;
+  padding: 15px;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+dt {
+  font-weight: bold;
+}
+
+ol {
+  padding: 20px;
+}
+
+section {
+  display: inline;
+  width: 610px;
+  float: right;
+  border-left: solid 1px;
+  padding: 15px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+}
+
